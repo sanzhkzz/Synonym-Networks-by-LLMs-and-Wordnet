@@ -15,7 +15,7 @@ The full technical report can be found in `/Paper`.
 The scripts to build, analyze, and visualize both networks are in `/Code`.
 
 ## 📊 Graph Outputs
-Visualizations of degree distributions and semantic spread of example words like "heavy" are stored in `/graphs`.
+Visualizations of degree distributions and semantic spread of example words like "heavy" are stored in `/Graphs`.
 
 ## 💬 Citation
 > Sailaubek, S. (2025). *Comparing Lexical Structures: A Network Analysis of WordNet and LLM-Generated Synonyms*. Cognitive Data Science (University of Trento).
